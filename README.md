@@ -12,24 +12,21 @@
 
 ## 📌 Featured Projects
 
-### 🏆 **Multiplayer Chess Game**
-Real-time chess with WebSockets, game state management, and king stalemate highlighting.  
-[🔗 View Repo](https://github.com/YOUR_USERNAME/chess-game)
+### 🏆 **Virtual Mouse Hand Gesture**
+Real-time chess with WebSockets, chat state management.  
+[🔗 View Repo](https://github.com/shivamByteLab/Virtual-Mouse-Hand-Gesture-)
 
-### 🎯 **Tic Tac Toe**
-Classic game built with React & Zustand, featuring score tracking and reset options.  
-[🔗 View Repo](https://github.com/YOUR_USERNAME/tic-tac-toe)
+### 🎯 **Portfolio**
+Classic portfolio built with React, featuring email sending.  
+[🔗 View Repo](https://github.com/shivamByteLab/.Portfolio)
 
-### 📱 **Background Audio Recorder**
-React Native + Expo app for recording audio in the background & sending to a server.  
-[🔗 View Repo](https://github.com/YOUR_USERNAME/audio-recorder)
 
 ---
 
 ## 📊 GitHub Stats
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamByteLab&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamByteLab&layout=compact&theme=radical)
 
 ---
 
@@ -41,5 +38,5 @@ React Native + Expo app for recording audio in the background & sending to a ser
 ---
 
 📫 **Connect with me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/shivamByteLab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivam99singh33)
