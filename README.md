@@ -6,7 +6,7 @@
 ---
 
 ## 🛠 Tech Stack
-`HTML` · `CSS` · `JavaScript` · `React` · `Zustand` · `Tailwind CSS` · `Git`
+`HTML` · `CSS` · `JavaScript` · `Reactjs` · `Nextjs` · `TypeScript` · `Zustand` · `Tailwind CSS` · `Git` 
 
 ---
 
