@@ -30,6 +30,11 @@ Classic portfolio built with React, featuring email sending.
 
 ---
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=shivamByteLab&theme=radical&no-frame=false&no-bg=true&margin-w=15)
+
+---
+
 ## 🌱 Currently Learning
 - Generative AI integration into web projects
 - Full-stack development with Node.js
