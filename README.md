@@ -13,7 +13,7 @@
 ## 📌 Featured Projects
 
 ### 🏆 **Virtual Mouse Hand Gesture**
-Real-time chess with WebSockets, chat state management.  
+Real-time control mouse using your hand.  
 [🔗 View Repo](https://github.com/shivamByteLab/Virtual-Mouse-Hand-Gesture-)
 
 ### 🎯 **Portfolio**
