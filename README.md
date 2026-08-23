@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Shivam
 
-💻 **Frontend Developer** | ⚡ Passionate about building interactive, user-friendly web apps  
+💻 **Python Developer** | ⚡
 🚀 Always pushing pixels & performance to the next level  
 
 ---
 
 ## 🛠 Tech Stack
-`HTML` · `CSS` · `JavaScript` · `Reactjs` · `Nextjs` · `TypeScript` · `Zustand` · `Tailwind CSS` · `Git` 
+`Panda` · `numpy` · `matplotlib` · `tensorflow` · `Nextjs` · `TypeScript` · `Zustand` · `Tailwind CSS` · `Git` 
 
 ---
 
